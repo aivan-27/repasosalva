@@ -1,0 +1,9 @@
+<table>
+        <tr>
+            <td>{{Articulo.nombre}}</td>
+            <td>{{Articulo.precio}}</td>
+            <td><button><a class="nav-link" [routerLink]="['/articulo', Articulo.id]">Ver Articulo</a></button></td>
+            <td><button><a class="nav-link" [routerLink]="['/actualizar', Articulo.id]">Modificar</a></button></td>
+            <td><button><a class="nav-link" [routerLink]="['/borrar', Articulo.id]">Eliminar</a></button></td>
+        </tr>
+</table>

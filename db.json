@@ -1,0 +1,132 @@
+{
+  "articulos": [
+    {
+      "id": "m2",
+      "nombre": "Xiaomi Redmi Note 11",
+      "categoria": "Moviles",
+      "descripcion": "4GB + 128GB",
+      "unidades": 104,
+      "precio": 180
+    },
+    {
+      "id": "m3",
+      "nombre": "One Plus Nord CE2",
+      "categoria": "Moviles",
+      "descripcion": "6GB + 128GB",
+      "unidades": 10,
+      "precio": 250
+    },
+    {
+      "id": "m4",
+      "nombre": "Apple iPhone",
+      "categoria": "Moviles",
+      "descripcion": "14 Pro móvil libre",
+      "unidades": 10,
+      "precio": 339
+    },
+    {
+      "id": "m5",
+      "nombre": "Galaxy Z Flip4",
+      "categoria": "Moviles",
+      "descripcion": "5G móvil libre",
+      "unidades": 10,
+      "precio": 1990
+    },
+    {
+      "id": "m6",
+      "nombre": "Note 11",
+      "categoria": "Moviles",
+      "descripcion": "6GB + 128GB",
+      "unidades": 10,
+      "precio": 300
+    },
+    {
+      "id": "m7",
+      "categoria": "Moviles",
+      "nombre": "Realme 9",
+      "descripcion": "8GB + 128GB",
+      "unidades": 10,
+      "precio": 300
+    },
+    {
+      "id": "p1",
+      "categoria": "Portatiles",
+      "nombre": "Asus Zen",
+      "descripcion": "i5 16Gb SSD",
+      "unidades": 10,
+      "precio": 900
+    },
+    {
+      "id": "p2",
+      "nombre": "HP Pavillion",
+      "categoria": "Portatiles",
+      "descripcion": "SSD Windows 11",
+      "unidades": 10,
+      "precio": 750
+    },
+    {
+      "id": "p3",
+      "nombre": "MacBook",
+      "descripcion": "MacOs 13",
+      "categoria": "Portatiles",
+      "unidades": 10,
+      "precio": 1115
+    },
+    {
+      "id": "t1",
+      "nombre": "Xiaomi P1E",
+      "descripcion": "Android 9 HDR10",
+      "categoria": "Televisores",
+      "unidades": 10,
+      "precio": 300
+    },
+    {
+      "id": "t2",
+      "nombre": "Toshiba 55UAG",
+      "categoria": "Televisores",
+      "descripcion": "Android UHD 4K",
+      "unidades": 10,
+      "precio": 450
+    },
+    {
+      "id": "t3",
+      "nombre": "Samsung UE305",
+      "descripcion": "Full HD, HDR",
+      "categoria": "Televisores",
+      "unidades": 10,
+      "precio": 350
+    },
+    {
+      "id": "fdsa",
+      "nombre": "fdsaf",
+      "descripcion": "fdsafdas",
+      "categoria": "fdsafds",
+      "unidades": 2,
+      "precio": 2
+    },
+    {
+      "id": "s20",
+      "nombre": "fsdafsa",
+      "categoria": "fdsfa",
+      "descripcion": "fdsaf",
+      "unidades": 1,
+      "precio": 1
+    },
+    {
+      "id": "fdsa",
+      "nombre": "fdsa",
+      "categoria": "dfsa",
+      "descripcion": "fdasfs",
+      "unidades": 1,
+      "precio": 1
+    },
+    {
+      "id": "ultimo",
+      "nombre": "fdsa",
+      "categoria": "dfsa",
+      "descripcion": "fdasfs",
+      "unidades": 1,
+      "precio": 1
+    }
+  ]
+}

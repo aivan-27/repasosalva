@@ -1,0 +1,29 @@
+<form (submit)="onSubmit()"   >
+    <label for="id">ID</label>
+    <input type="text" id="id" name="id" [(ngModel)]="Articulo.id" >
+    <br><br>
+
+    <label for="nombre">Nombre</label>
+    <input type="text" id="nombre" name="nombre" [(ngModel)]="Articulo.nombre" >
+    <br><br>
+
+    <label for="descripcion">Descripcion</label>
+    <input type="text" id="descripcion" name="descripcion" [(ngModel)]="Articulo.descripcion" >
+    <br><br>
+
+    <label for="categoria">Categoria</label>
+    <input type="text" id="categoria" name="categoria" [(ngModel)]="Articulo.categoria" >
+    <br><br>
+
+    <label for="precio">Precio</label>
+    <input type="number" id="precio" name="precio" [(ngModel)]="Articulo.precio" >
+    <br><br>
+
+    <label for="unidades">Unidades</label>
+    <input type="number" id="unidades" name="unidades" [(ngModel)]="Articulo.unidades" >
+    <br><br>
+
+    <button type="submit" >ACTUALIZAR Articulo</button>
+    <button routerLink="/articulos" >Volver</button>
+
+</form>

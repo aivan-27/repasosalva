@@ -1,0 +1,7 @@
+
+<h1>ARTICULOS</h1>
+<button routerLink="/crear">Nuevo</button>
+
+@for (Articulo of Articulos; track $index) {
+    <app-articulo-componente [Articulo]= "Articulo"></app-articulo-componente>
+}
